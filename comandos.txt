@@ -1,0 +1,32 @@
+  498  git clone https://github.com/gian-pc/spring-pildorasinformaticas.git
+  499  git clone https://github.com/gian-pc/spring-pildorasinformaticas.git
+  500  git status
+  501  git add .
+  502  git commit -m "commit 01 de gianPaucar"
+  503  git remote add origin https://github.com/gian-pc/Checkpoint-GianPaucar.git
+  504  git push origin main
+  505  git branch
+  506  git branch feature
+  507  git branch
+  508  git checkout feature
+  509  mkdir Hardware
+  510  mkdir Software
+  511  mkdir SeguridadInformatica
+  512  cd Hardware/
+  513  touch resumen.txt
+  514  cd ..
+  515  cd Software/
+  516  touch resumen.txt
+  517  cd ..
+  518  cd SeguridadInformatica/
+  519  touch resumen.txt
+  520  cd ..
+  521  git status
+  522  git add .
+  523  git commit -m "commit 02 de gianPaucar"
+  524  git push origin feature
+  525  git checkout main
+  526  mv main.js resumenHardware.txt
+  527  mv index.html resumenSoftware.txt
+  528  touch comandos.txt
+  529  history
